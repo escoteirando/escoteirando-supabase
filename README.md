@@ -2,6 +2,10 @@
 
 Compartilhamento de atividades escoteiras
 
+[![CodeQL](https://github.com/escoteirando/escoteirando-supabase/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/escoteirando/escoteirando-supabase/actions/workflows/codeql-analysis.yml)
+
+https://www.youtube.com/watch?v=SNP0bISve9s
+
 ## Install the dependencies
 ```bash
 yarn
